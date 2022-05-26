@@ -1,0 +1,2 @@
+/dev/mmcblk0p1 /media/mmcblk0p1 vfat ro,relatime,fmask=0022,dmask=0022,errors=remount-ro 0 0
+LABEL=HOME /home f2fs noatime 0 2

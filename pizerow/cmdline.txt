@@ -1,0 +1,1 @@
+modules=loop,squashfs,sd-mod,usb-storage,dwc2,g_ether quiet console=tty1
